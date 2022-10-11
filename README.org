@@ -2,19 +2,16 @@
 How you found this profile is unkown but here it is!
 I try to contribute regularly. So far I haven't done much in the realms of Open-Source.
 
-
 ** Socials
 - Twitter: [[https://twitter.com/NameIsALoser][@NameIsALoser]]
 - Email: namesexistsinemails@gmail.com
 - Github:[[https://github.com/NamesCode][ NamesCode]]
 - Discord: NameExists#3898
 
-
 ** Languages
 - [X] Python
 - [ ] Rust
 - [ ] Typescript
-
 
 ** Events
 [[https://www.holopin.io/@name][Holopin]]
@@ -31,7 +28,6 @@ I try to contribute regularly. So far I haven't done much in the realms of Open-
 - [ ] Catppuccin MacOs cursor
 - [ ] Jackbox clone
 - [X] [[https://github.com/catppuccin/kakoune][Catppuccin Kakoune]]
-
 
 * TODO
 - [ ] [[https://doc.rust-lang.org/rust-by-example/index.html][Learn Rust]]
