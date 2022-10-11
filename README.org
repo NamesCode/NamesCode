@@ -1,5 +1,22 @@
 * Hallo 🍕
 How you found this profile is unkown but here it is!
 I try to contribute regularly. So far I haven't done much in the realms of Open-Source.
-[[img:https://www.holopin.io/api/user/board?user=name][1]]
-(https://holopin.io/api/user/board?user=name)](https://holopin.io/@name)
+
+
+** Socials
+Twitter: [[https://twitter.com/NameIsALoser][@NameIsALoser]]
+Email: namesexistsinemails@gmail.com
+Github:[[https://github.com/NamesCode][ NamesCode]]
+Discord: NameExists#3898
+
+* PROJ
+- [ ] [[https://github.com/catppuccin/mdBook][Catppuccin MDBook]]
+- [ ] [[https://github.com/arcticicestudio/nord/issues/159][Nord Kakoune]]
+- [ ] Catppuccin MacOs cursor
+- [ ] Jackbox clone
+
+
+* TODO
+- [ ] [[https://doc.rust-lang.org/rust-by-example/index.html][Learn Rust]]
+- [ ] Setup debian server
+- [ ] Add screenshot to [[https://github.com/NamesCode/.Dotfiles][.Dotfiles]]
