@@ -2,6 +2,8 @@
 How you found this profile is unkown but here it is!
 I try to contribute regularly. So far I haven't done much in the realms of Open-Source.
 
+Now an official member of [[https://github.com/orgs/catppuccin/people?query=Name][Catppuccin]]
+
 ** Socials
 - Twitter: [[https://twitter.com/NameIsALoser][@NameIsALoser]]
 - Email: namesexistsinemails@gmail.com
