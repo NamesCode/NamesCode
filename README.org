@@ -4,6 +4,8 @@ I try to contribute regularly. So far I haven't done much in the realms of Open-
 
 Now an official member of [[https://github.com/orgs/catppuccin/people?query=Name][Catppuccin]]
 
+[[https://holopin.io/@name][file:https://holopin.me/name]]
+
 ** Socials
 - Twitter: [[https://twitter.com/NameIsALoser][@NameIsALoser]]
 - Email: namesexistsinemails@gmail.com
@@ -34,4 +36,4 @@ Now an official member of [[https://github.com/orgs/catppuccin/people?query=Name
 * TODO
 - [ ] [[https://doc.rust-lang.org/rust-by-example/index.html][Learn Rust]]
 - [ ] Setup debian server
-- [ ] Add screenshot to [[https://github.com/NamesCode/.Dotfiles][.Dotfiles]]
+- [X] Add screenshot to [[https://github.com/NamesCode/.Dotfiles][.Dotfiles]]
