@@ -38,6 +38,6 @@ Now an official member of [[https://github.com/orgs/catppuccin/people?query=Name
 - [X] [[https://github.com/catppuccin/kakoune][Catppuccin Kakoune]]
 
 * TODO
-- [ ] [[https://doc.rust-lang.org/rust-by-example/index.html][Learn Rust]]
+- [ ] [[https://doc.rust-lang.org/rust-by-example/index.html][Learn Rust]] /started/
 - [ ] Setup debian server
 - [X] Add screenshot to [[https://github.com/NamesCode/.Dotfiles][.Dotfiles]]
