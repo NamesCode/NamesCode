@@ -6,6 +6,9 @@ Now an official member of [[https://github.com/orgs/catppuccin/people?query=Name
 
 [[https://holopin.io/@name][file:https://holopin.me/name]]
 
+:PROPERTIES:
+#+columns:
+
 ** Socials
 - Twitter: [[https://twitter.com/NameIsALoser][@NameIsALoser]]
 - Email: namesexistsinemails@gmail.com
@@ -16,6 +19,7 @@ Now an official member of [[https://github.com/orgs/catppuccin/people?query=Name
 - [X] Python
 - [ ] Rust
 - [ ] Typescript
+- [ ] Lisp
 
 ** Events
 [[https://www.holopin.io/@name][Holopin]]
