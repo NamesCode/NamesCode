@@ -8,9 +8,6 @@ Now an official member of [Catppuccin](https://github.com/orgs/catppuccin/people
 [![@name's Holopin board](https://holopin.me/name)](https://holopin.io/@name)
 XMR: 461V69YUr5gdcrcCwe1eR4gqToutCobvCH3BpseBB79JUrnBZuGobcmMSV2X11kQ5dgZPfV9qbvXQf8uUGN6cGbnBGVJsA5
 
-:PROPERTIES:
-
-
 <a id="org9509db1"></a>
 
 ## Socials
@@ -42,7 +39,7 @@ XMR: 461V69YUr5gdcrcCwe1eR4gqToutCobvCH3BpseBB79JUrnBZuGobcmMSV2X11kQ5dgZPfV9qbv
 
 ### hacktoberfest 2022
 
--   [X][ 1 Contribution](https://github.com/catppuccin/kakoune/pull/6)
+-   [X] [ 1 Contribution](https://github.com/catppuccin/kakoune/pull/6)
 -   [X] [2 Contribution](https://github.com/catppuccin/kakoune/pull/7)
 -   [X] [3 Contribution](https://github.com/catppuccin/kakoune/pull/8)
 -   [X] [4 Contribution](https://github.com/catppuccin/anilist/pull/2)
@@ -65,6 +62,6 @@ XMR: 461V69YUr5gdcrcCwe1eR4gqToutCobvCH3BpseBB79JUrnBZuGobcmMSV2X11kQ5dgZPfV9qbv
 # TODO
 
 -   [ ] [Learn Rust](https://doc.rust-lang.org/rust-by-example/index.html) *started*
--   [ ] Setup debian server
+-   [X] Setup debian server
 -   [X] Add screenshot to [.Dotfiles](https://github.com/NamesCode/.Dotfiles)
 
