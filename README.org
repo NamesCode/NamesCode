@@ -5,6 +5,7 @@ I try to contribute regularly. So far I haven't done much in the realms of Open-
 Now an official member of [[https://github.com/orgs/catppuccin/people?query=Name][Catppuccin]]
 
 [[https://holopin.io/@name][file:https://holopin.me/name]]
+XMR: 461V69YUr5gdcrcCwe1eR4gqToutCobvCH3BpseBB79JUrnBZuGobcmMSV2X11kQ5dgZPfV9qbvXQf8uUGN6cGbnBGVJsA5
 
 :PROPERTIES:
 #+columns:
