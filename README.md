@@ -1,17 +1,3 @@
-
-# Table of Contents
-
-1.  [Hallo 🍕](#org9a35395)
-    1.  [Socials](#org9509db1)
-    2.  [Languages](#org220e775)
-    3.  [Events](#org7b27f73)
-        1.  [hacktoberfest 2022](#orgc66a3e4)
-2.  [Proj](#org62f437a)
-3.  [TODO](#orgdaa372d)
-
-
-<a id="org9a35395"></a>
-
 # Hallo 🍕
 
 How you found this profile is unkown but here it is!
