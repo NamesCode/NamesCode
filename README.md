@@ -2,7 +2,7 @@
 
 How you found this profile is unkown but here it is!
 I try to contribute regularly. So far I haven&rsquo;t done much in the realms of Open-Source.
-
+xf
 Now an official member of [Catppuccin](https://github.com/orgs/catppuccin/people?query=Name)
 
 [![@name's Holopin board](https://holopin.me/name)](https://holopin.io/@name)
@@ -26,7 +26,6 @@ XMR: 461V69YUr5gdcrcCwe1eR4gqToutCobvCH3BpseBB79JUrnBZuGobcmMSV2X11kQ5dgZPfV9qbv
 -   [ ] Rust
 -   [ ] Typescript
 -   [ ] Lisp
-
 
 <a id="org7b27f73"></a>
 
@@ -52,10 +51,6 @@ XMR: 461V69YUr5gdcrcCwe1eR4gqToutCobvCH3BpseBB79JUrnBZuGobcmMSV2X11kQ5dgZPfV9qbv
 
 -   [ ] [Catppuccin MDBook](https://github.com/catppuccin/mdBook)
 -   [ ] [Nord Kakoune](https://github.com/arcticicestudio/nord/issues/159)
--   [ ] Catppuccin MacOs cursor
--   [ ] Jackbox clone
--   [X] [Catppuccin Kakoune](https://github.com/catppuccin/kakoune)
-
 
 <a id="orgdaa372d"></a>
 

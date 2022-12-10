@@ -40,5 +40,5 @@ XMR: 461V69YUr5gdcrcCwe1eR4gqToutCobvCH3BpseBB79JUrnBZuGobcmMSV2X11kQ5dgZPfV9qbv
 
 * TODO
 - [ ] [[https://doc.rust-lang.org/rust-by-example/index.html][Learn Rust]] /started/
-- [ ] Setup debian server
+- [X] Setup debian server
 - [X] Add screenshot to [[https://github.com/NamesCode/.Dotfiles][.Dotfiles]]
