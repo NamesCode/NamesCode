@@ -6,7 +6,6 @@ I try to contribute regularly. So far I haven't done much in the realms of Open-
 Now an official member of [Catppuccin](https://github.com/orgs/catppuccin/people?query=Name)
 
 [![@name's Holopin board](https://holopin.me/name)](https://holopin.io/@name)
-XMR: 461V69YUr5gdcrcCwe1eR4gqToutCobvCH3BpseBB79JUrnBZuGobcmMSV2X11kQ5dgZPfV9qbvXQf8uUGN6cGbnBGVJsA5
 
 <a id="org9509db1"></a>
 
