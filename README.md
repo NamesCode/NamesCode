@@ -57,6 +57,7 @@ GCS/E/M/S/O d-(--)>---pu s+(+)>+:-()> a--- C++(+++)>+++$ UC*()>+$ P()> L(+)>++$ 
 
 -   [ ] [Catppuccin MDBook](https://github.com/catppuccin/mdBook)
 -   [ ] [Nord Kakoune](https://github.com/arcticicestudio/nord/issues/159)
+-   [ ] [Quiplash clone](https://github.com/arcticicestudio/nord/issues/159) *started*
 
 <a id="orgdaa372d"></a>
 
