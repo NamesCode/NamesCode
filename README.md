@@ -33,12 +33,6 @@ GCS/E/M/S/O d-(--)>---pu s+(+)>+:-()> a--- C++(+++)>+++$ UC*()>+$ P()> L(+)>++$ 
 -   [ ] Typescript
 -   [ ] Lisp
 
-<a id="org7b27f73"></a>
-
-## Events
-
-[Holopin](https://www.holopin.io/@name)
-
 # Proj
 
 -   [ ] [Catppuccin MDBook](https://github.com/catppuccin/mdBook)
