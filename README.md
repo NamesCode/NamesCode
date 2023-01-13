@@ -39,20 +39,6 @@ GCS/E/M/S/O d-(--)>---pu s+(+)>+:-()> a--- C++(+++)>+++$ UC*()>+$ P()> L(+)>++$ 
 
 [Holopin](https://www.holopin.io/@name)
 
-
-<a id="orgc66a3e4"></a>
-
-### hacktoberfest 2022
-
--   [X] [ 1 Contribution](https://github.com/catppuccin/kakoune/pull/6)
--   [X] [2 Contribution](https://github.com/catppuccin/kakoune/pull/7)
--   [X] [3 Contribution](https://github.com/catppuccin/kakoune/pull/8)
--   [X] [4 Contribution](https://github.com/catppuccin/anilist/pull/2)
--   [X] Claim T-shirt
-
-
-<a id="org62f437a"></a>
-
 # Proj
 
 -   [ ] [Catppuccin MDBook](https://github.com/catppuccin/mdBook)
