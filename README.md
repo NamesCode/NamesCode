@@ -34,7 +34,7 @@ GCS/E/M/S/O d-(--)>---pu s+(+)>+:-()> a--- C++(+++)>+++$ UC*()>+$ P()> L(+)>++$ 
 -   [ ] [Catppuccin MDBook](https://github.com/catppuccin/mdBook)
 -   [ ] [Quiplash clone](https://github.com/arcticicestudio/nord/issues/159) *Started*
 -   [ ] Chatgptj *Setup env*
--   [ ] Tauri app to run an awful model of cancer growth for FMSPW *Started*
+-   [ ] Tauri app to run a model of cancer growth for FMSPW *Started*
 -   [ ] Personal website
 
 # TODO
