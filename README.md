@@ -39,5 +39,6 @@ GCS/E/M/S/O d-(--)>---pu s+(+)>+:-()> a--- C++(+++)>+++$ UC*()>+$ P()> L(+)>++$ 
 
 # TODO
 
+-   [ ] Make personal website
 -   [ ] [Learn Rust](https://doc.rust-lang.org/rust-by-example/index.html) *Started and going well :)* 
 -   [ ] Update [.Dotfiles](https://github.com/NamesCode/.Dotfiles)
