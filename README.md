@@ -32,13 +32,11 @@ GCS/E/M/S/O d-(--)>---pu s+(+)>+:-()> a--- C++(+++)>+++$ UC*()>+$ P()> L(+)>++$ 
 # Proj
 
 -   [ ] [Catppuccin MDBook](https://github.com/catppuccin/mdBook)
--   [ ] [Quiplash clone](https://github.com/arcticicestudio/nord/issues/159) *Started*
--   [ ] Chatgptj *Setup env*
+-   [ ] Quiplash clone *Started*
 -   [ ] Tauri app to run a model of cancer growth for FMSPW *Started*
 -   [ ] Personal website
 
 # TODO
 
--   [ ] Make personal website
+-   [ ] Make personal website *Started*
 -   [ ] [Learn Rust](https://doc.rust-lang.org/rust-by-example/index.html) *Started and going well :)* 
--   [ ] Update [.Dotfiles](https://github.com/NamesCode/.Dotfiles)
