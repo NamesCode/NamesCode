@@ -31,10 +31,8 @@ GCS/E/M/S/O d-(--)>---pu s+(+)>+:-()> a--- C++(+++)>+++$ UC*()>+$ P()> L(+)>++$ 
 
 # Proj
 
--   [ ] [Catppuccin MDBook](https://github.com/catppuccin/mdBook)
 -   [ ] Quiplash clone *Started*
--   [ ] Tauri app to run a model of cancer growth for FMSPW *Started*
--   [ ] Personal website
+-   [ ] Personal website *Started*
 
 # TODO
 
