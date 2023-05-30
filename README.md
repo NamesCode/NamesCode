@@ -26,18 +26,18 @@ GCS/E/M/S/O d-(--)>---pu s+(+)>+:-()> a--- C++(+++)>+++$ UC*()>+$ P()> L(+)>++$ 
 -   [X] Python *Everyone starts somewhere
 -   [X] Rust *Not finished but semi-confident*
 -   [ ] ELisp *Kinda started but wouldn't count*
--   [ ] Javascript :) *WebUI's with sveltekit <3*
+-   [ ] Javascript :) *I hate JS*
 -   [ ] Java :( *School*
 
 # Proj
 
 -   [ ] Quiplash clone *Started*
--   [ ] Personal website *Started*
+-   [X] Personal website *Done! Check it out at https://garfunkles.space*
 
 # TODO
 
--   [ ] Make personal website *Started*
 -   [ ] [Learn Rust](https://doc.rust-lang.org/rust-by-example/index.html) *Started and going well :)* 
+-   [ ] web game thingy
 
 # OctoRing
 
