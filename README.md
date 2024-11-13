@@ -9,7 +9,7 @@ I'm a member of [Catppuccin](https://github.com/orgs/catppuccin/people?query=Nam
 
 ## Socials
 
--   Twitter: [@NameIsALoser](https://twitter.com/NameIsALoser)
+-   Fedi: [Name@labyrinth.zone](https://labyrinth.zone/Name)
 -   Email: <namesexistsinemails@gmail.com>
 -   Github: [NamesCode](https://github.com/NamesCode)
 -   Discord: NameExists#3898
