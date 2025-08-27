@@ -3,7 +3,7 @@
 How you found this profile is unkown but here it is!
 I try to contribute regularly. So far I haven't done much in the realms of Open-Source.
 
-I'm a member of [Catppuccin](https://github.com/orgs/catppuccin/people?query=Name) :3
+I'm a member of [Catppuccin](https://github.com/orgs/catppuccin/people?query=Name)
 
 [![@name's Holopin board](https://holopin.me/name)](https://holopin.io/@name)
 
