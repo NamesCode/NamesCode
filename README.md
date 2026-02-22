@@ -1,4 +1,4 @@
-Working with [trashcod.ing](https://trashcod.ing).
+Working with [trashcod.ing](https://trashcod.ing). \
 I try to program well.
 
 ## Socials
